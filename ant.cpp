@@ -18,7 +18,7 @@ Ant::Ant(int xrow, int ycol, int antX_row, int antY_col, int dir, int step, char
     direction = dir;
     myboard = board;
     steps = step;
-	char color;
+    char color;
 }
 
 //This sets the current color of the ant. This is for the first move of the ant. By setting
